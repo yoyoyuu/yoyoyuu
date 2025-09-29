@@ -18,7 +18,7 @@
 ## ✨ GitHub Stats:
 
 <p align="left">
-<a href="https://github.com/tessarivas">
+<a href="https://github.com/yoyoyuu">
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoyoyuu&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
