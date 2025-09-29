@@ -23,7 +23,4 @@
 
 ## Go see my other stuff!
 <p align="left">
-  <a href="https://www.linkedin.com/in/teresa-rivas-gómez-072458294/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:rivas.teresa@hotmail.com"><img src="https://img.shields.io/badge/Mail-e322d3?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/tessarivas"><img src="https://img.shields.io/badge/GitHub-711fcf?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
