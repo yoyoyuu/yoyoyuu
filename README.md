@@ -1,5 +1,3 @@
-# yoyoyuu
-
 <div align="center">
   <h1 align="center">Welcome to my profile!</h1>
   <h3 align="center">yoyo | 20 yo | Software & Emerging Technologies Engineer Student</h3>
